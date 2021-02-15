@@ -9,10 +9,23 @@ like in a movie. Also, it may work as a motivation to watch a movie, which was
 filmed somewhere near where you live.
 
 Launching example:
+
+```
 Please enter a year you would like to have a map for: 2015
 Please enter your location (format: lat, long): 36.114647, -115.172813
 Map is generating...
 Please wait...
 Map succesfully generated
+```
 
 ![Example](nearest_films.jpeg?raw=true "Nearest films result")
+
+HTML structure:
+```
+<head> - 
+<meta> - 
+<script> - 
+<style> - 
+<link> - 
+<body> - 
+<div> - 
