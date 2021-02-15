@@ -1,6 +1,6 @@
 Module generates HTML-file based on a given year and location.
 As a result user recieves an interactive map where he can see his location,
-locatiions of closet filming places and straight lines indicating the
+locatiions of closest filming places and straight lines indicating the
 direction to the filming places.
 
 This HTML map gives user an opportunity to find closest filming places and
@@ -15,4 +15,4 @@ Map is generating...
 Please wait...
 Map succesfully generated
 
-![Example](nearest_films.jpeg/?raw=true "Nearest films result")
+![Example](nearest_films.jpeg?raw=true "Nearest films result")
