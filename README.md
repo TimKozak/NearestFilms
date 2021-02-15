@@ -21,11 +21,13 @@ Map succesfully generated
 ![Example](nearest_films.jpeg?raw=true "Nearest films result")
 
 HTML structure:
+
 ```
-<head> - 
-<meta> - 
-<script> - 
-<style> - 
-<link> - 
-<body> - 
-<div> - 
+<head> - helps browser work with data within HTML
+<body> - everything you see is displayed within this tag
+<meta> - store info for site desctiption in search engine
+<script> - add JavaScript code in HTML file
+<style> - add css styling within HTML
+<link> - allows to grab info for HTML elswhere
+<div> - container tag
+```
